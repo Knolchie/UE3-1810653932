@@ -1,11 +1,17 @@
 package com.company;
 
-import javax.swing.*;
+    import javax.swing.*;
 
 public class Main {
 
 
     public static void main(String[] args) {
+
+
+
+
+
+
         partialString( (JOptionPane.showInputDialog("wort eingeben")));
 
 
@@ -27,4 +33,6 @@ public class Main {
         }
 
 }
-}
+    }
+
+
